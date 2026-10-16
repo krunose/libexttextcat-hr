@@ -13,7 +13,7 @@ Repozitorij sadrži modul hrvatskoga jezika za prepoznavanje (identifikaciju) te
 U Wikipediji ima i puno stranih imena, toponima i općenito stranih riječi, pa je pitanje koliko je 300 000 odlomaka reprezentativno. Postoje dvije stvari vezano za ovo:
 
 - ako imamo isključivo tekst sastavljen od hrvatskih riječi, možda tekst kopiran iz hrvatske Wikipedije koji ima dovoljno stranih riječi neće biti prepoznat kao hrvatski
-- miješani tekst (hrvatska Wikipedija) ipak strana imena, toponime i riječi veže unutar hrvatskoga teksta, tako da je pretpostavka da je hrvatski tekst na vrhu (veća statistička) vjerojatnost, a strane riječi su više došle kao šum, ali postoje u modelu pa zbog njih `libexttextcat` neće odbaciti tekst
+- miješani tekst (hrvatska Wikipedija) ipak strana imena, toponime i riječi veže unutar hrvatskoga teksta, tako da je pretpostavka da je hrvatski tekst na vrhu (veća statistička vjerojatnost), a strane riječi su više došle kao šum, ali postoje u modelu pa zbog njih `libexttextcat` neće odbaciti tekst
 
 ## Zašto ne cijela hrvatska Wikipedija
 
