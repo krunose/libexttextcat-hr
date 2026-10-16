@@ -1,6 +1,6 @@
-# Prepoznavanje hrvatskoga teksta
+# Prepoznavanje hrvatskoga teksta alatom libexttextcat
 
-Repozitorij sadrži modul hrvatskoga jezika za prepoznavanje (identifikaciju) teksta `libexttextcat`om.
+Repozitorij sadrži modul hrvatskoga jezika za prepoznavanje (identifikaciju) teksta alatom `libexttextcat`.
 
 ## Metodologija rada
 
