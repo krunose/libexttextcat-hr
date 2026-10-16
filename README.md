@@ -21,6 +21,6 @@ Ograničenje sklopovlja koje posjedujemo onemogućava da s `createfp` provedemo 
 
 ---
 
-Krunoslav Šebetić (listopad 2026.)
-kruno.se@gmx.com
-LGPLv3+
+Krunoslav Šebetić (listopad 2026.)<br>
+kruno.se@gmx.com<br>
+**LGPLv3+**
