@@ -17,7 +17,7 @@ U Wikipediji ima i puno stranih imena, toponima i općenito stranih riječi, pa 
 
 ## Zašto ne cijela hrvatska Wikipedija
 
-Ograničenje sklopovlja koje posjedujemo onemogućava da s `createfp` provedemo cijelu Wikipediju na hrvatskome jer bi proces stvaranja jezičnoga modela na < 235 000 članaka i preko 53 milijuna riječi trajao predugo. Uostalom nema ni potrebe, dovoljno je nekoliko megabajta teksta da `createfp` izvuče što mu treba.
+Ograničenje sklopovlja koje posjedujemo onemogućava da s `createfp` provedemo cijelu Wikipediju na hrvatskome jer bi proces stvaranja jezičnoga modela na > 235 000 članaka i preko 53 milijuna riječi trajao predugo. Uostalom nema ni potrebe, dovoljno je nekoliko megabajta teksta da `createfp` izvuče što mu treba.
 
 ---
 
